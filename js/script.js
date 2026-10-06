@@ -120,7 +120,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 
-  // ========== Contact form handling (demo) ==========
+  // ========== Contact form handling 
   if (contactForm) {
     contactForm.addEventListener('submit', (e) => {
       e.preventDefault();
